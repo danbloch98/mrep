@@ -206,7 +206,7 @@ width: 300px;
   }
 #sideNavigationMenu{
   position: fixed;
-  z-index: 0;
+  z-index: 3;
   background-color: #272c2e;
   margin: 0 auto;
   height: 100%;
