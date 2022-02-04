@@ -254,6 +254,7 @@ width: 300px;
   #sideClientNavigationMenu{
     display: none;
     position: fixed;
+    z-index:5;
     width: 300px;
     background-color: #1c1f21;
     top: 250px;
