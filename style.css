@@ -482,7 +482,7 @@ margin: 0 auto;
 .clientPicFix img{
   margin: 0 auto;
   position: relative;
-  left: 20px;
+  left: 10px;
 }
 .clientPic{
   grid-row:2;
