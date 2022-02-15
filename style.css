@@ -467,11 +467,20 @@ max-height: 300px;
     text-align: center;
   width: 218px;
     margin: 0 auto;
-  
-  
+  }
+  .clientPicFix{
+ 
+    position: relative;
+    margin: 0 auto;
+   right: 10px;
   }
 
+
+
+  
  }
+
+
  #indexClientsGrid {
 margin: 0 auto; 
 }
@@ -479,10 +488,11 @@ margin: 0 auto;
 #latestReleases{
   grid-row: 1;
 }
-.clientPicFix img{
-  margin: 0 auto;
+.clientPicFix{
+ 
   position: relative;
-  left: 10px;
+  margin: 0 auto;
+ left: 10px;
 }
 .clientPic{
   grid-row:2;
