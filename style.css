@@ -479,6 +479,11 @@ margin: 0 auto;
 #latestReleases{
   grid-row: 1;
 }
+.clientPicFix img{
+  margin: 0 auto;
+  position: relative;
+  left: 20px;
+}
 .clientPic{
   grid-row:2;
   gap: 0;
